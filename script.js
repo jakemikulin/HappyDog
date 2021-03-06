@@ -1,3 +1,6 @@
+// JavaScript file for Good Boy
+// Author: Jake Mikulin
+
 let goodboybutton = document.querySelector('#goodboybutton');
 let repeatbutton = document.querySelector('#repeatbutton');
 
