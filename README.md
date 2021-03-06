@@ -1,0 +1,2 @@
+# GoodBoy
+A wholesome webpage
